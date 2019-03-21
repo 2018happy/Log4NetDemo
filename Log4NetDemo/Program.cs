@@ -19,7 +19,7 @@ namespace Log4NetDemo
             Log.Info("我是Info");
             Log.Debug("我是Debug");
             Log.Error("我是Error");
-
+            Console.ReadLine();
         }
     }
 }
